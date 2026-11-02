@@ -1,0 +1,10 @@
+# Python dependencies for MIST_Code_Project
+# Tested with Python 3.10.18
+# Install with: pip install -r requirements.txt
+
+# Required to run the task (main_code_MIST.py)
+psychopy==2025.2.1
+openpyxl==3.1.5
+
+# Only needed to regenerate the stimulus files (generate_all_possible_stims_by_levels.py)
+tqdm==4.67.1
